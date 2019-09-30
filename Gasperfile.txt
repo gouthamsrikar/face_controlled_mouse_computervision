@@ -1,5 +1,0 @@
-1.download .dat file provided with link in file 'data' and create a folder named 'data' and copy dat file into it
-2.then run the python code in console
-3.open mouth : either to activate or deactivate mouse
-4.mouse moves according to the movement of nose out of the red box
-5.blink eye to click 
